@@ -49,9 +49,7 @@ This is a complete authentication system that allows users to:
 ## 🔧 Project Structure
 
 ```
-task03-php<img width="1709" height="800" alt="Screenshot 2026-06-13 091804" src="https://github.com/user-attachments/assets/f299769e-d07a-4e28-b2a2-0eae3e0fa1fc" />
-<img width="1709" height="800" alt="Screenshot 2026-06-13 091804" src="https://github.com/user-attachments/assets/fa9d86b7-261d-4eee-b96c-28ec674f0d7c" />
-/
+task03-php/
 ├── index.php                 # Login page
 ├── register.php              # Registration page
 ├── welcome.php               # Protected dashboard (after login)
@@ -181,27 +179,23 @@ If your MySQL setup is different, update these values in `inc/dbh.inc.php`.
 ## 🖼️ Screenshots
 
 ### Login Page
-![Login Page](<img width="1709" height="800" alt="Login Page" src="https://github.com/user-attachments/assets/fb9bf955-1470-4007-ac97-b7fac28f4da7" />)
+![Login Page](https://github.com/user-attachments/assets/fb9bf955-1470-4007-ac97-b7fac28f4da7)
 *The initial login form where users enter their credentials*
 
 ### Registration Page
-![Registration Page](<img width="1502" height="795" alt="Registration Page" src="https://github.com/user-attachments/assets/f5117810-bbea-4e4f-b3a0-778d4a264f58" />
-)
+![Registration Page](https://github.com/user-attachments/assets/f5117810-bbea-4e4f-b3a0-778d4a264f58)
 *The registration form for new users with validation feedback*
 
 ### Welcome Page
-![Welcome Page](<img width="1333" height="661" alt="Welcome Page" src="https://github.com/user-attachments/assets/c574b15d-ae98-4dd5-9a1e-008dc1b3c208" />
-)
+![Welcome Page](https://github.com/user-attachments/assets/c574b15d-ae98-4dd5-9a1e-008dc1b3c208)
 *The protected dashboard shown after successful login*
 
 ### Logout Process
-![Success Logout](<img width="938" height="547" alt="Logout Process" src="https://github.com/user-attachments/assets/9d74259e-76bb-4469-9e38-4a027c8d11b6" />
-)
+![Success Logout](https://github.com/user-attachments/assets/9d74259e-76bb-4469-9e38-4a027c8d11b6)
 *The alert of successful logout*
 
 ### Database
-![Database and User Table](<img width="1146" height="774" alt="Database" src="https://github.com/user-attachments/assets/e38bbdca-85bf-411b-b7c0-3733f10ff286" />
-)
+![Database and User Table](https://github.com/user-attachments/assets/e38bbdca-85bf-411b-b7c0-3733f10ff286)
 *The database and users table*
 
 ---
